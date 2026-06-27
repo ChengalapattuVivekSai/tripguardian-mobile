@@ -21,7 +21,6 @@ const PROD_RENDER_URL = 'https://tripguardian-backend.onrender.com';
 // To switch back to local development, uncomment the lines below and comment the production lines above.
 // const USE_PRODUCTION = false;
 // const PROD_RENDER_URL = '';
-
 const deriveHostFromExpo = () => {
   const debuggerHost =
     Constants.expoConfig?.hostUri ?? (Constants as any).manifest?.debuggerHost;
