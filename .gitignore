@@ -11,5 +11,3 @@ android/local.properties
 *.p8
 *.p12
 *.pem
-.env.example
-app.json

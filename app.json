@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TripGuardian",
+    "slug": "tripguardian",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.chengalapattu.tripguardian",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "FOREGROUND_SERVICE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "05aca776-4eb6-42c7-8009-fb4ec327268d"
+      }
+    },
+    "owner": "viveksaich"
+  }
+}
