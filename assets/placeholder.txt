@@ -1,0 +1,1 @@
+Add real images under assets/images. This file is a placeholder.

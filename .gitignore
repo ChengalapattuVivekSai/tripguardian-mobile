@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.expo
+dist
+web-build
+node_modules
+android/local.properties
+*.keystore
+*.jks
+*.p8
+*.p12
+*.pem
+.env.example
+app.json
